@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Sem5-SU25\\PRN212\\Code\\NguyenLeTieuLong_SE18D05_A01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE3C427-83B1-4F2D-92A8-B4FA256177CB}|NguyenLeTieuLongWPF\\NguyenLeTieuLongWPF.csproj|e:\\sem5-su25\\prn212\\code\\nguyenletieulong_se18d05_a01\\nguyenletieulongwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAE3C427-83B1-4F2D-92A8-B4FA256177CB}|NguyenLeTieuLongWPF\\NguyenLeTieuLongWPF.csproj|solutionrelative:nguyenletieulongwpf\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE3C427-83B1-4F2D-92A8-B4FA256177CB}|NguyenLeTieuLongWPF\\NguyenLeTieuLongWPF.csproj|e:\\sem5-su25\\prn212\\code\\nguyenletieulong_se18d05_a01\\nguyenletieulongwpf\\views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DAE3C427-83B1-4F2D-92A8-B4FA256177CB}|NguyenLeTieuLongWPF\\NguyenLeTieuLongWPF.csproj|solutionrelative:nguyenletieulongwpf\\views\\bookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "E:\\Sem5-SU25\\PRN212\\Code\\NguyenLeTieuLong_SE18D05_A01\\NguyenLeTieuLongWPF\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenLeTieuLongWPF\\Views\\LoginWindow.xaml",
+              "ToolTip": "E:\\Sem5-SU25\\PRN212\\Code\\NguyenLeTieuLong_SE18D05_A01\\NguyenLeTieuLongWPF\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "NguyenLeTieuLongWPF\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T11:43:21.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingWindow.xaml",
+              "DocumentMoniker": "E:\\Sem5-SU25\\PRN212\\Code\\NguyenLeTieuLong_SE18D05_A01\\NguyenLeTieuLongWPF\\Views\\BookingWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenLeTieuLongWPF\\Views\\BookingWindow.xaml",
+              "ToolTip": "E:\\Sem5-SU25\\PRN212\\Code\\NguyenLeTieuLong_SE18D05_A01\\NguyenLeTieuLongWPF\\Views\\BookingWindow.xaml",
+              "RelativeToolTip": "NguyenLeTieuLongWPF\\Views\\BookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-21T11:42:34.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
